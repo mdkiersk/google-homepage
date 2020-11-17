@@ -1,1 +1,1 @@
-# google-homepage
+Initial commit for Google-Homepage project.
